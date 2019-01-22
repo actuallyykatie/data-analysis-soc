@@ -1,17 +1,5 @@
----
-title: "**Switzerland: subjective well-being, social exclusion, religion, national and ethnic identity**"
-author: 'Team Milka'
-output: 
-  html_document:
-    theme: simplex
-    code_folding: show
-    keep_md: true
-    toc: true
-    toc_depth: 3
-    toc_float:
-      collapsed: true
-      smooth_scroll: true
----
+# **Switzerland: subjective well-being, social exclusion, religion, national and ethnic identity**"
+authors: 'Team Milka' *(group 164)*
 
 
 
