@@ -2,9 +2,9 @@
 This repository contains materials from the Data Analysis in Sociology course at HSE. 
 
 ### Outline:
-- First year: 
-- Second year:
-- Third year:
+- [First year of study](#first-year)
+- Second year
+- Third year
 
 ## Projects
 ### First year 
@@ -31,5 +31,5 @@ This repository contains materials from the Data Analysis in Sociology course at
 **Responsibilities**: data visualization, analysis, final report, team lead *(making sure everything is under control and teammates are not suffering)*
 
 
-### Third & fourth years
+### Second & Third years
 Do not exist yet :)
